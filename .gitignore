@@ -2,3 +2,5 @@
 data/
 *.db
 .env
+.DS_Store
+*.sqbpro
